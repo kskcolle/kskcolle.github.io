@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Language" content="nl-be">
+<title>Foutmelding</title>
+</head>
+<body>
+De ingevulde gegevens zijn niet correct. Gelieve opnieuw te proberen.<p>Hou 
+rekening met het volgende:</p>
+<ul>
+	<li>de velden met een <font color="#CC0000">*</font> zijn verplicht</li>
+	<li>de postcode mag enkel cijfers bevatten, en enkel tussen 1000 en 9999</li>
+	<li>naam, voornaam en woonplaats mogen enkel letters bevatten.</li>
+</ul>
+<p>Volgende gegevens werden geregistreerd:</p>
+<ul>
+	<li><b>Naam</b><font color="#CC0000">*</font><b>:</b> $in{naam}</li>
+	<li><b>Voornaam</b><font color="#CC0000">*</font><b>:</b> $in{voornaam}</li>
+	<li><b>Postcode</b><font color="#CC0000">*</font><b>:</b> $in{postcode}</li>
+	<li><b>Woonplaats</b><font color="#CC0000">*</font><b>:</b> $in{woonplaats}</li>
+	<li><b>Telefoonnummer:</b> $in{telefoon}</li>
+	<li><b>E-mailadres:</b> $in{MAILFROM}</li>
+	<li><b>Onderwerp</b><font color="#CC0000">*</font><b>:</b> $in{SUBJECT}</li>
+	<li><b>Omschrijving</b><font color="#CC0000">*</font><b>:</b> $in{omschrijving}</li>
+</ul>
+<p><a href="javascript:history.back(1)">Klik hier</a> om opnieuw te proberen.</p>
+</body>
+</html>

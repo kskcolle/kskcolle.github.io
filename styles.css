@@ -1,0 +1,77 @@
+body 		{background-color: white;background-position: center;border: 1px solid #666;}
+
+a:link	 	{font-weight: normal;color: blue;text-decoration:none;}
+a:visited 	{font-weight: normal;color: blue;text-decoration:none;}
+a:active 	{font-weight: normal;color: blue;text-decoration:none;}
+
+img.small	{height:50px;}
+img.normal	{height:auto;}
+img.medium	{height:100px;}
+img.rather	{height:150px;}
+img.big		{height:200px;}
+img.super	{height:250px;}
+img.giant	{height:450px;}
+img.giant2	{height:650px;}
+
+.row 	{ position: relative; width: 650px; vertical-align: center; } 
+.left 	{ width: 325px; height: 235px; float: left; } 
+.right 	{ width: 325px; height: 235px; float: right; margin: 0 0 0px 0px; } 
+
+.hoofd1  		{color:#FFFFFF;font-family:lato;font-size:30px;font-weight:normal;text-decoration:none;text-align:left;}, 
+.hoofd1  A:link		{font-size:16px;font-family:lato; font-weight:normal;text-decoration:none;text-align:left;}	 
+.hoofd1  A:visited	{font-size:16px;font-family:lato; font-weight:normal;text-decoration:none;text-align:left;}	 
+.hoofd1  A:active	{font-size:16px;font-family:lato; font-weight:normal;text-decoration:none;text-align:left;}	 
+.hoofd1 TD 		{background-color:#3F4860; color:#FFFFFF;font-family:lato;font-size:30px;font-weight:normal;text-decoration:none;text-align:center;} 
+	 
+
+	 
+.M1  		{color:#FFFFFF;font-family:lato;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;}, 
+.M1  A:link	{font-size:14px;font-family:lato; font-weight:normal;text-decoration:none;text-align:left;} 
+.M1  A:visited	{font-size:14px;font-family:lato; font-weight:normal;text-decoration:none;text-align:left;} 
+.M1  A:active	{font-size:14px;font-family:lato; font-weight:normal;text-decoration:none;text-align:left;}	 
+.M1 TD 	{background-color:#3F4860; color:#FFFFFF;font-family:lato;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;} 
+	 
+
+
+.M2 TD 	{background-color:#C0C8C0;font-family:lato;font-size:12px;text-align:left;text-indent: 0em;}
+.M2 A:link  	{color:#3F4860;font-size:12px;font-family:lato; font-weight:bold;}
+.M2 A:visited	{color:#3F4860;font-size:12px;font-family:lato; font-weight:bold;}
+.M2 A:active 	{color:#3F4860;font-size:12px;font-family:lato; font-weight:bold;}
+.M2 A:hover 	{color:#aa0000;font-size:12px;font-family:lato; font-weight:bold;}
+
+
+h1 {font-size:20px;font-family:lato;font-weight:bold;color=black;margin:5px;margin-left:0cm;}	
+h2 {font-size:16px;font-family:lato;font-weight:bold;color=black;margin:5px;margin-left:0cm;}
+h3 {font-size:14px;font-family:lato;font-weight:bold;color=black;margin:5px;margin-left:1cm;}	
+
+.AGrey1 {background-color:#C0C8C0;text-align:center;font-size:12px;font-family:lato;font-weight:normal;margin-left:1.0cm;margin-right:1.0cm}		 
+.AGrey2 {background-color:#C0C8C0;text-align:center;font-size:12px;font-family:lato;font-weight:normal;margin-left:2.0cm;margin-right:1.0cm}		 
+.AGrey3 {background-color:#C0C8C0;text-align:center;font-size:14px;font-family:lato;font-weight:normal;margin-left:2.0cm;margin-right:1.0cm}		 
+.AGrey4 {background-color:#C0C8C0;text-align:center;font-size:16px;font-family:lato;font-weight:normal;color:darkblue;margin-left:5.0cm;margin-right:5.0cm}		 
+.AGrey5 {background-color:#C0C8C0;text-align:left;font-size:16px;font-family:lato;font-weight:normal;color:darkblue;margin-left:5.0cm;margin-right:5.0cm;height="32";verticalalign="middle"}		 
+.ADark1 {background-color:#3F4860;text-align:center;font-size:12px;font-family:lato;font-weight:normal;color:white;margin-left:1.0cm;margin-right:1.0cm}		 
+.ADark2 {background-color:#3F4860;text-align:center;font-size:12px;font-family:lato;font-weight:normal;color:white;margin-left:2.0cm;margin-right:1.0cm}		 
+.ADark3 {background-color:#3F4860;text-align:center;font-size:14px;font-family:lato;font-weight:normal;color:white;margin-left:2.0cm;margin-right:1.0cm}		 
+.ADark4 {background-color:#3F4860;text-align:center;font-size:16px;font-family:lato;font-weight:normal;color:white;margin-left:5.0cm;margin-right:5.0cm}		 
+.ADark5 {background-color:#3F4860;text-align:left;font-size:16px;font-family:lato;font-weight:normal;color:white;margin-left:5.0cm;margin-right:5.0cm}		 
+.ADark6 {background-color:#3F4860;text-align:center;font-size:30px;font-family:lato;font-weight:normal;color:white;margin-left:5.0cm;margin-right:5.0cm;line-height: 40pt}		 
+.AWhite1 {background-color:white;text-align:center;font-size:12px;font-family:lato;font-weight:normal;color:black;margin-left:1.0cm;margin-right:1.0cm}		 
+.AWhite2 {background-color:white;text-align:center;font-size:12px;font-family:lato;font-weight:normal;color:black;margin-left:2.0cm;margin-right:1.0cm}		 
+.AWhite3 {background-color:white;text-align:center;font-size:14px;font-family:lato;font-weight:normal;color:black;margin-left:2.0cm;margin-right:1.0cm}		 
+.AWhite4 {background-color:white;text-align:center;font-size:16px;font-family:lato;font-weight:normal;color:black;margin-left:5.0cm;margin-right:5.0cm}		 
+.AWhite5 {background-color:white;text-align:left;font-size:16px;font-family:lato;font-weight:normal;color:black;margin-left:5.0cm;margin-right:5.0cm}		 
+
+.N1	{font-family:lato;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;margin-left:1.0cm;margin-right:0cm;line-height: 12pt}
+.N2	{font-family:lato;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;margin-left:2.0cm;margin-right:0cm;line-height: 12pt}
+.N3	{font-family:lato;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;margin-left:1.0cm;margin-right:0cm;line-height: 14pt}
+.N4	{font-family:lato;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;margin-left:2.0cm;margin-right:0cm;line-height: 14pt}
+
+.IT1	{font-family:lato;font-size:14px;font-style:italic;text-decoration:none;text-align:left;margin-left:1.0cm;margin-right:0cm;line-height: 12pt}
+.IT2	{font-family:lato;font-size:14px;font-style:italic;text-decoration:none;text-align:left;margin-left:2.0cm;margin-right:0cm;line-height: 12pt}
+.IT3	{font-family:lato;font-size:14px;font-style:italic;text-decoration:none;text-align:left;margin-left:1.0cm;margin-right:0cm;line-height: 14pt}
+.IT4	{font-family:lato;font-size:14px;font-style:italic;text-decoration:none;text-align:left;margin-left:2.0cm;margin-right:0cm;line-height: 14pt}
+
+.td	{font-family:lato;font-size: 14px;padding: 5px 5px 5px 5px;}
+
+
+
